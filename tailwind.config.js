@@ -4,6 +4,7 @@ module.exports = {
   mode: "jit",
   theme: {
     extend: {
+
       colors: {
         primary: "#00040f",
         secondary: "#00f6ff",
